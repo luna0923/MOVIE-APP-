@@ -1,5 +1,6 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
+import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 import {
   createUserWithEmailAndPassword,
@@ -9,17 +10,17 @@ import {
 import { collection, addDoc } from "firebase/firestore";
 import { toast } from "react-toastify";
 const firebaseConfig = {
-  apiKey: "AIzaSyC8j9b5hgluwY8pLf87ItF4FkCICAXIRfM",
-  authDomain: "netflix-clone-b76b5.firebaseapp.com",
-  projectId: "netflix-clone-b76b5",
-  storageBucket: "netflix-clone-b76b5.firebasestorage.app",
-  messagingSenderId: "707449988242",
-  appId: "1:707449988242:web:2428040e964e29c734724b",
-  measurementId: "G-3K3J078E2M",
+  apiKey: "AIzaSyA-dNTSKaGUDtG9874D12BE8cg-lTwFbGg",
+  authDomain: "netflix-clone-f4893.firebaseapp.com",
+  projectId: "netflix-clone-f4893",
+  storageBucket: "netflix-clone-f4893.firebasestorage.app",
+  messagingSenderId: "501580252764",
+  appId: "1:501580252764:web:7c1a0fd78568abacf1c899",
+  measurementId: "G-WXD9GFYETR"
 };
-
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
+const analytics = getAnalytics(app);
 const db = getFirestore(app);
 
 const signup = async (name, email, password) => {
