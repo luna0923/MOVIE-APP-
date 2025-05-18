@@ -22,10 +22,10 @@ A slick, responsive **Netflix UI clone** built with **React**. It features dynam
 |----------------|---------------------------------------|
 | React          | Frontend Framework                    |
 | React Router   | Routing between pages                 |
-| Axios / Fetch  | Fetching data from the Movie API      |
+| Fetch          | Fetching data from the Movie API      |
 | TMDB API       | Movie metadata and poster assets      |
 | Firebase/Auth  | User Authentication (Login/Logout)    |
-| CSS / SCSS     | Styling & layout                      |
+| CSS            | Styling & layout                      |
 
 ---
 
