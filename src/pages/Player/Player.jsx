@@ -28,7 +28,7 @@ const Player = () => {
         const trailer = data.results.find(
           (video) => video.type === "Trailer" && video.site === "YouTube"
         );
-        setVideoData(trailer || data.results[0]); // fallback if no trailer found
+        setVideoData(trailer || data.results[0]); 
       }
     } catch (error) {
       console.error("Failed to fetch trailer data:", error);
