@@ -4,15 +4,15 @@ A slick, responsive **Netflix UI clone** built with **React**. It features dynam
 
 ---
 
-## 🌟 Features
+## Features
 
-- ✅ Beautiful, Netflix-like UI  
-- ✅ Tailored movie categories with horizontal scroll  
-- ✅ Dynamic posters & video thumbnails via Movie API  
-- ✅ Fully functional **Login/Logout** with clean transitions  
-- ✅ Responsive design – looks sharp on all screens  
-- ✅ Uses React hooks and reusable components  
-- ✅ Powered by **Firebase** (optional) for auth & hosting
+- Beautiful, Netflix-like UI  
+-  Tailored movie categories with horizontal scroll  
+-  Dynamic posters & video thumbnails via Movie API  
+-  Fully functional **Login/Logout** with clean transitions  
+-  Responsive design – looks sharp on all screens  
+-  Uses React hooks and reusable components  
+-  Powered by **Firebase** (optional) for auth & hosting
 
 ---
 
