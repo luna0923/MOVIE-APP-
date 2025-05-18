@@ -29,14 +29,6 @@ A slick, responsive **Netflix UI clone** built with **React**. It features dynam
 
 ---
 
-## 🚀 Live Demo
-
-**Check it out:** [Netflix Clone Live](https://movie-clone-37ed8.web.app/login)
-
----
-
-## Installation
-
 ## Installation
 
 1. **Clone the repo:**
