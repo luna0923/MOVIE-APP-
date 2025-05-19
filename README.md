@@ -3,6 +3,7 @@
 A slick, responsive **Netflix UI clone** built with **React**. It features dynamic movie carousels, user authentication, and a fully immersive movie streaming vibe — powered by real-time data from an external API.
 
 ---
+
 Note:
 This site is currently under construction. I have submitted an appeal regarding the Google warning, which I believe was triggered because this is a Netflix clone designed to closely resemble the original Netflix interface. I have verified through Top Scan that there is no malicious content or harmful data in the project. I’m awaiting Google’s review and approval to remove the warning. Meanwhile, you can run the project locally using npm start to explore it.
 
